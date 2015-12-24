@@ -2,7 +2,7 @@
 # ../droid-configs-device/droid-configs.inc
 %define device c8813q
 %define vendor huawei
-define vendor_pretty Huawei
+%define vendor_pretty Huawei
 %define device_pretty C8813Q / G525-00
 %define dcd_path ./
 # Adjust this for your device
